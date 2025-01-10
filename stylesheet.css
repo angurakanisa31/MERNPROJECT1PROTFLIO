@@ -4,6 +4,7 @@
     padding:0;
     box-sizing: border-box;
     font-family:'poppins',sans-serif;
+   
 }
 body{
     color: #ededed;
@@ -51,6 +52,7 @@ body{
     display:flex;
     align-items: center;
     padding:70px 10% 0;
+    
 }
 .home-content{
     max-width:600px;
@@ -66,4 +68,9 @@ body{
 }
 .home-content p{
     font-size: 20px;
+}
+img{
+    width: 10%;
+    height: 10%; 
+    margin-right: 100px;
 }
